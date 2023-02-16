@@ -1,14 +1,14 @@
-
+version https://git-lfs.github.com/spec/v1
+oid sha256:5aa299a241af468654dd5f87d7a7bf309032fa77e3dba07ddf4dd24007760fe6
+size 235
+*.exe
 .thunderstoremm
-doorstop_config.ini
-doorstop_libs/*
 MonoBleedingEdge/*
 UnityPlayer.dll
+doorstop_config.ini
+doorstop_libs/*
 start_game_bepinex.sh
 start_server_bepinex.sh
 steam_appid.txt
-UnityCrashHandler64.exe
 unstripped_corlib/*
 valheim_Data/*
-valheim.exe
-winhttp.dll
