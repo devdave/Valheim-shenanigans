@@ -1,0 +1,14 @@
+
+.thunderstoremm
+doorstop_config.ini
+doorstop_libs/*
+MonoBleedingEdge/*
+UnityPlayer.dll
+start_game_bepinex.sh
+start_server_bepinex.sh
+steam_appid.txt
+UnityCrashHandler64.exe
+unstripped_corlib/*
+valheim_Data/*
+valheim.exe
+winhttp.dll
