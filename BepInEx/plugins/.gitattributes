@@ -1,3 +1,0 @@
-*.dll filter=lfs diff=lfs merge=lfs -text
-Huntardys-EpicValheimsAdditions/*.dll filter=lfs diff=lfs merge=lfs -text
-MonsterLabZ-MonsterLabZ/MonsterLabZ/*.dll filter=lfs diff=lfs merge=lfs -text
