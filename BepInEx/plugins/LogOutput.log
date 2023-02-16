@@ -1,0 +1,1717 @@
+[Message:   BepInEx] BepInEx 5.4.19.0 - valheim (6/23/2022 11:06:36 AM)
+[Info   :   BepInEx] Running under Unity v2020.3.33.9525882
+[Info   :   BepInEx] CLR runtime version: 4.0.30319.42000
+[Info   :   BepInEx] Supports SRE: True
+[Info   :   BepInEx] System platform: Bits64, Windows
+[Message:   BepInEx] Preloader started
+[Info   :   BepInEx] Loaded 1 patcher method from [BepInEx.Preloader 5.4.19.0]
+[Info   :   BepInEx] 1 patcher plugin loaded
+[Info   :   BepInEx] Patching [UnityEngine.CoreModule] with [BepInEx.Chainloader]
+[Message:   BepInEx] Preloader finished
+[Message:   BepInEx] Chainloader ready
+[Message:   BepInEx] Chainloader started
+[Info   :   BepInEx] 27 plugins to load
+[Info   :   BepInEx] Loading [PlantEverything 1.12.0]
+[Info   :   BepInEx] Loading [Spawn That! 1.2.1]
+[Info   :   BepInEx] Loading [Custom Raids 1.6.3]
+[Info   :Custom Raids] Loading configurations...
+[Info   :   BepInEx] Loading [Drop That! 2.3.4]
+[Message:Drop That!] Loading general configuration from D:\Steam\steamapps\common\Valheim\BepInEx\config\drop_that.cfg.
+[Info   :   BepInEx] Loading [RRRCore 0.2.14]
+[Info   :   BepInEx] Loading [RRRMonsters 0.2.2]
+[Info   :   BepInEx] Loading [RRRNpcs 0.2.4]
+[Info   :   BepInEx] Loading [Jotunn 2.10.2]
+[Info   :    Jotunn] Initializing LocalizationManager
+[Info   :    Jotunn] Initializing CommandManager
+[Info   :    Jotunn] Initializing InputManager
+[Info   :    Jotunn] Initializing SkillManager
+[Info   :    Jotunn] Initializing PrefabManager
+[Info   :    Jotunn] Initializing ItemManager
+[Info   :    Jotunn] Initializing PieceManager
+[Info   :    Jotunn] Initializing CreatureManager
+[Info   :    Jotunn] Initializing ZoneManager
+[Info   :    Jotunn] Initializing MockManager
+[Info   :    Jotunn] Initializing KitbashManager
+[Info   :    Jotunn] Initializing GUIManager
+[Info   :    Jotunn] Initializing KeyHintManager
+[Info   :    Jotunn] Initializing NetworkManager
+[Info   :    Jotunn] Initializing SynchronizationManager
+[Info   :    Jotunn] Initializing RenderManager
+[Info   :    Jotunn] Initializing MinimapManager
+[Info   :    Jotunn] Initializing UndoManager
+[Info   :    Jotunn] Jötunn v2.10.2 loaded successfully
+[Info   :   BepInEx] Loading [KukusVillagerMod 1.0.0]
+[Info   :   BepInEx] Loading [SagesVault 1.1.3]
+[Info   :   BepInEx] Loading [BlacksmithTools 2.0.2]
+[Info   :   BepInEx] Loading [JudesEquipment 2.2.3]
+[Info   :   BepInEx] Loading [Epic Valheims Additions - by Huntard 1.9.2]
+[Info   :EpicValheimsAdditions.Core] Loading...
+[Info   :EpicValheimsAdditions.Core] Loaded Prefabs
+[Info   :EpicValheimsAdditions.Core] Loaded CraftingPieces
+[Info   :EpicValheimsAdditions.Core] Loaded MiscItems
+[Info   :EpicValheimsAdditions.Core] Loaded BossStuff
+[Info   :EpicValheimsAdditions.Core] EVA Mistlands content is turned off
+[Info   :EpicValheimsAdditions.Core] Loaded EVA DeepNorth content
+[Info   :EpicValheimsAdditions.Core] Loaded EVA Ashlands content
+[Info   :EpicValheimsAdditions.Core] Loaded Ingots/scales/ore
+[Info   :EpicValheimsAdditions.Core] Loaded DeepAbyssWeapons
+[Info   :EpicValheimsAdditions.Core] EVA Mistlands locations are turned off
+[Info   :EpicValheimsAdditions.Core] Loaded Vegetation
+[Info   :EpicValheimsAdditions.Core] Loaded configs
+[Info   :EpicValheimsAdditions.Core] Updated configs
+[Info   :   BepInEx] Loading [Better Trader Remake 2.2.7]
+[Info   :Digitalroot] Trader's coins were loaded from world Unknown_BetterTrader.dat file with a value of 2000
+[Info   :   BepInEx] Loading [MonsterLabZ 2.9.2]
+[Info   : Unity Log] 01/03/2023 21:59:06: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 01/03/2023 21:59:06: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 01/03/2023 21:59:06: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 01/03/2023 21:59:06: Loaded localization CSV:localization_extra language:English
+
+[Info   :   BepInEx] Loading [Speedy Paths Mod 1.0.6]
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Initialized Server Authoritative Config Manager.
+[Info   :   BepInEx] Loading [Valheim Plus 0.9.9.11]
+[Info   :Valheim Plus] Trying to load the configuration file
+[Info   : Unity Log] Loading config section AdvancedBuildingMode
+[Info   : Unity Log]  Loading key enterAdvancedBuildingMode
+[Info   : Unity Log]  Loading key exitAdvancedBuildingMode
+[Info   : Unity Log]  Loading key copyObjectRotation
+[Info   : Unity Log]  Loading key pasteObjectRotation
+[Info   : Unity Log]  Loading key increaseScrollSpeed
+[Info   : Unity Log]  Loading key decreaseScrollSpeed
+[Info   : Unity Log] Loading config section AdvancedEditingMode
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Bed
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Beehive
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Building
+[Info   : Unity Log]  Loading key noInvalidPlacementRestriction
+[Info   : Unity Log]  Loading key noMysticalForcesPreventPlacementRestriction
+[Info   : Unity Log]  Loading key noWeatherDamage
+[Info   : Unity Log]  Loading key maximumPlacementDistance
+[Info   : Unity Log]  Loading key pieceComfortRadius
+[Info   : Unity Log]  Loading key alwaysDropResources
+[Info   : Unity Log]  Loading key alwaysDropExcludedResources
+[Info   : Unity Log]  Loading key enableAreaRepair
+[Info   : Unity Log]  Loading key areaRepairRadius
+[Info   : Unity Log] Loading config section Deconstruct
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Inventory
+[Info   : Unity Log]  Loading key inventoryFillTopToBottom
+[Info   : Unity Log]  Loading key mergeWithExistingStacks
+[Info   : Unity Log]  Loading key playerInventoryRows
+[Info   : Unity Log]  Loading key woodChestColumns
+[Info   : Unity Log]  Loading key woodChestRows
+[Info   : Unity Log]  Loading key personalChestColumns
+[Info   : Unity Log]  Loading key personalChestRows
+[Info   : Unity Log]  Loading key ironChestColumns
+[Info   : Unity Log]  Loading key ironChestRows
+[Info   : Unity Log]  Loading key blackmetalChestColumns
+[Info   : Unity Log]  Loading key blackmetalChestRows
+[Info   : Unity Log]  Loading key cartInventoryColumns
+[Info   : Unity Log]  Loading key cartInventoryRows
+[Info   : Unity Log]  Loading key karveInventoryColumns
+[Info   : Unity Log]  Loading key karveInventoryRows
+[Info   : Unity Log]  Loading key longboatInventoryColumns
+[Info   : Unity Log]  Loading key longboatInventoryRows
+[Info   : Unity Log] Loading config section Items
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Fermenter
+[Info   : Unity Log]  Loading key fermenterDuration
+[Info   : Unity Log]  Loading key fermenterItemsProduced
+[Info   : Unity Log]  Loading key showDuration
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log] Loading config section FireSource
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Food
+[Info   : Unity Log]  Loading key foodDurationMultiplier
+[Info   : Unity Log]  Loading key disableFoodDegradation
+[Info   : Unity Log] Loading config section Smelter
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Furnace
+[Info   : Unity Log]  Loading key maximumOre
+[Info   : Unity Log]  Loading key maximumCoal
+[Info   : Unity Log]  Loading key coalUsedPerProduct
+[Info   : Unity Log]  Loading key productionSpeed
+[Info   : Unity Log]  Loading key autoDeposit
+[Info   : Unity Log]  Loading key autoFuel
+[Info   : Unity Log]  Loading key ignorePrivateAreaCheck
+[Info   : Unity Log]  Loading key autoRange
+[Info   : Unity Log]  Loading key allowAllOres
+[Info   : Unity Log] Loading config section Hotkeys
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Kiln
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Windmill
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section SpinningWheel
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Map
+[Info   : Unity Log]  Loading key shareMapProgression
+[Info   : Unity Log]  Loading key exploreRadius
+[Info   : Unity Log]  Loading key preventPlayerFromTurningOffPublicPosition
+[Info   : Unity Log]  Loading key shareAllPins
+[Info   : Unity Log]  Loading key displayCartsAndBoats
+[Info   : Unity Log] Loading config section Player
+[Info   : Unity Log]  Loading key baseMaximumWeight
+[Info   : Unity Log]  Loading key baseMegingjordBuff
+[Info   : Unity Log]  Loading key baseAutoPickUpRange
+[Info   : Unity Log]  Loading key disableCameraShake
+[Info   : Unity Log]  Loading key baseUnarmedDamage
+[Info   : Unity Log]  Loading key cropNotifier
+[Info   : Unity Log]  Loading key restSecondsPerComfortLevel
+[Info   : Unity Log]  Loading key deathPenaltyMultiplier
+[Info   : Unity Log]  Loading key autoRepair
+[Info   : Unity Log]  Loading key guardianBuffDuration
+[Info   : Unity Log]  Loading key guardianBuffCooldown
+[Info   : Unity Log]  Loading key disableGuardianBuffAnimation
+[Info   : Unity Log]  Loading key autoEquipShield
+[Info   : Unity Log]  Loading key autoUnequipShield
+[Info   : Unity Log]  Loading key skipIntro
+[Info   : Unity Log]  Loading key iHaveArrivedOnSpawn
+[Info   : Unity Log]  Loading key queueWeaponChanges
+[Info   : Unity Log]  Loading key dontUnequipItemsWhenSwimming
+[Info   : Unity Log]  Loading key reequipItemsAfterSwimming
+[Info   : Unity Log]  Loading key fallDamageScalePercent
+[Info   : Unity Log]  Loading key maxFallDamage
+[Info   : Unity Log]  Loading key skipTutorials
+[Info   : Unity Log]  Loading key disableEncumbered
+[Info   : Unity Log]  Loading key autoPickUpWhenEncumbered
+[Info   : Unity Log] Loading config section Server
+[Info   : Unity Log]  Loading key maxPlayers
+[Info   : Unity Log]  Loading key disableServerPassword
+[Info   : Unity Log]  Loading key enforceMod
+[Info   : Unity Log]  Loading key serverSyncsConfig
+[Info   : Unity Log]  Loading key serverSyncHotkeys
+[Info   : Unity Log] Loading config section Stamina
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StaminaUsage
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Workbench
+[Info   : Unity Log]  Loading key workbenchRange
+[Info   : Unity Log]  Loading key workbenchEnemySpawnRange
+[Info   : Unity Log]  Loading key workbenchAttachmentRange
+[Info   : Unity Log]  Loading key disableRoofCheck
+[Info   : Unity Log] Loading config section Time
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Ward
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section StructuralIntegrity
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Tameable
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Hud
+[Info   : Unity Log]  Loading key showRequiredItems
+[Info   : Unity Log]  Loading key experienceGainedNotifications
+[Info   : Unity Log]  Loading key removeDamageFlash
+[Info   : Unity Log]  Loading key displayBowAmmoCounts
+[Info   : Unity Log] Loading config section Experience
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Camera
+[Info   : Unity Log]  Loading key cameraMaximumZoomDistance
+[Info   : Unity Log]  Loading key cameraBoatMaximumZoomDistance
+[Info   : Unity Log]  Loading key cameraFOV
+[Info   : Unity Log] Loading config section Game
+[Info   : Unity Log]  Loading key gameDifficultyDamageScale
+[Info   : Unity Log]  Loading key gameDifficultyHealthScale
+[Info   : Unity Log]  Loading key extraPlayerCountNearby
+[Info   : Unity Log]  Loading key setFixedPlayerCountTo
+[Info   : Unity Log]  Loading key difficultyScaleRange
+[Info   : Unity Log]  Loading key disablePortals
+[Info   : Unity Log]  Loading key disableConsole
+[Info   : Unity Log]  Loading key bigPortalNames
+[Info   : Unity Log]  Loading key disableFog
+[Info   : Unity Log] Loading config section Wagon
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Gathering
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Pickable
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Durability
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Armor
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FreePlacementRotation
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Shields
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section FirstPerson
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GridAlignment
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section CraftFromChest
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section ValheimPlus
+[Info   : Unity Log]  Loading key mainMenuLogo
+[Info   : Unity Log]  Loading key serverBrowserAdvertisement
+[Info   : Unity Log] Loading config section PlayerProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section MonsterProjectile
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section GameClock
+[Info   : Unity Log]  Loading key useAMPM
+[Info   : Unity Log]  Loading key textFontSize
+[Info   : Unity Log]  Loading key textRedChannel
+[Info   : Unity Log]  Loading key textGreenChannel
+[Info   : Unity Log]  Loading key textBlueChannel
+[Info   : Unity Log]  Loading key textTransparencyChannel
+[Info   : Unity Log] Loading config section Brightness
+[Info   : Unity Log]  Section not enabled
+[Info   : Unity Log] Loading config section Chat
+[Info   : Unity Log]  Section not enabled
+[Info   :Valheim Plus] Configuration file loaded succesfully.
+[Info   :Valheim Plus] ValheimPlus [0.9.9.11] is up to date.
+[Info   :   BepInEx] Loading [Display BepInEx Info In-Game 2.0.0]
+[Info   :   BepInEx] Loading [Equipment and Quick Slots 2.1.1]
+[Info   :   BepInEx] Loading [ChaosArmor 10.4.1]
+[Info   :   BepInEx] Loading [Server Devcommands 1.41]
+[Info   :   BepInEx] Loading [MonsterMobs 1.1.4]
+[Info   :   BepInEx] Loading [jtv 1.1.6]
+[Info   :   BepInEx] Loading [jtv_biomes 0.0.2]
+[Info   :   BepInEx] Loading [Recipe Customizer 0.0.1]
+[Info   :   BepInEx] Loading [Weapon Customizer 0.0.2]
+[Info   :   BepInEx] Loading [Upgrade World 1.26]
+[Message:   BepInEx] Chainloader startup complete
+[Info   : Unity Log] 01/03/2023 21:59:23: Starting to load scene:start
+
+[Warning: Unity Log] Only custom filters can be played. Please add a custom filter or an audioclip to the audiosource (Amb_MainMenu).
+[Info   : Unity Log] 01/03/2023 21:59:25: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 01/03/2023 21:59:25: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 01/03/2023 21:59:25: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 01/03/2023 21:59:25: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 01/03/2023 21:59:25: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 01/03/2023 21:59:25: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 01/03/2023 21:59:26: Using environment steamid 892970
+
+[Info   : Unity Log] 01/03/2023 21:59:26: Using steam APPID:892970
+
+[Info   : Unity Log] 01/03/2023 21:59:26: Authentication:k_ESteamNetworkingAvailability_Attempting
+
+[Info   : Unity Log] 01/03/2023 21:59:26: Steam initialized, persona:SpoonMan
+
+[Info   : Unity Log] 01/03/2023 21:59:26: PlayFab custom ID set to "Steam_76561197970022810"
+
+[Info   : Unity Log] 01/03/2023 21:59:26: Using default prefs
+
+[Info   : Unity Log] 01/03/2023 21:59:26: Valheim version:0.212.9
+
+[Info   : Unity Log] 01/03/2023 21:59:26: Worldgenerator version setup:2
+
+[Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
+[Info   : Unity Log] 01/03/2023 21:59:26: Render threading mode:MultiThreaded
+
+[Info   : Unity Log] 01/03/2023 21:59:26: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 01/03/2023 21:59:26: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 01/03/2023 21:59:26: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 01/03/2023 21:59:26: Loaded localization CSV:localization_extra language:English
+
+[Info   : Unity Log] 01/03/2023 21:59:26: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 01/03/2023 21:59:26: Loaded localization CSV:localization_extra language:English
+
+[Warning: Unity Log] 01/03/2023 21:59:26: Missing audio clip in music respawn
+
+[Info   : Unity Log] 01/03/2023 21:59:26: Checking for installed DLCs
+
+[Info   : Unity Log] 01/03/2023 21:59:26: DLC:beta installed:False
+
+[Info   :Jotunn.Managers.LocalizationManager] Loading custom localizations
+[Info   : Unity Log] 01/03/2023 21:59:27: Loaded localization CSV:localization language:English
+
+[Info   : Unity Log] 01/03/2023 21:59:27: Loaded localization CSV:localization_extra language:English
+
+[Info   :Jotunn.Managers.LocalizationManager] Adding tokens for language 'English'
+[Error  : Unity Log] Desired shader compiler platform 18 is not available in shader blob
+[Warning:RRRMonsters] True
+[Info   :KukusVillagerMod.KLog] Created Creature with Name : Weak_Villager_Ranged
+[Info   :KukusVillagerMod.KLog] Created Creature with Name : Weak_Villager
+[Info   :KukusVillagerMod.KLog] Created Creature with Name : Bronze_Villager_Ranged
+[Info   :KukusVillagerMod.KLog] Created Creature with Name : Bronze_Villager
+[Info   :KukusVillagerMod.KLog] Created Creature with Name : Iron_Villager_Ranged
+[Info   :KukusVillagerMod.KLog] Created Creature with Name : Iron_Villager
+[Info   :KukusVillagerMod.KLog] Created Creature with Name : Silver_Villager_Ranged
+[Info   :KukusVillagerMod.KLog] Created Creature with Name : Silver_Villager
+[Info   :KukusVillagerMod.KLog] Created Creature with Name : BlackMetal_Villager_Ranged
+[Info   :KukusVillagerMod.KLog] Created Creature with Name : BlackMetal_Villager
+[Warning:KukusVillagerMod.KLog] ADDED HUMAN KUKUPIE
+[Info   :KukusVillagerMod.KLog] Created : Weak_Bed_Ranged with villager : Weak_Villager_Ranged
+[Info   :KukusVillagerMod.KLog] Created : Weak_Bed with villager : Weak_Villager
+[Info   :KukusVillagerMod.KLog] Created : Bronze_Bed_Ranged with villager : Bronze_Villager_Ranged
+[Info   :KukusVillagerMod.KLog] Created : Bronze_Bed with villager : Bronze_Villager
+[Info   :KukusVillagerMod.KLog] Created : Iron_Bed_Ranged with villager : Iron_Villager_Ranged
+[Info   :KukusVillagerMod.KLog] Created : Iron_Bed with villager : Iron_Villager
+[Info   :KukusVillagerMod.KLog] Created : Silver_Bed_Ranged with villager : Silver_Villager_Ranged
+[Info   :KukusVillagerMod.KLog] Created : Silver_Bed with villager : Silver_Villager
+[Info   :KukusVillagerMod.KLog] Created : BlackMetal_Bed_Ranged with villager : BlackMetal_Villager_Ranged
+[Info   :KukusVillagerMod.KLog] Created : BlackMetal_Bed with villager : BlackMetal_Villager
+[Info   : Unity Log] Load robeList
+[Error  : Unity Log] Desired shader compiler platform 18 is not available in shader blob
+[Error  : Unity Log] Desired shader compiler platform 18 is not available in shader blob
+[Error  : Unity Log] Desired shader compiler platform 18 is not available in shader blob
+[Error  : Unity Log] Desired shader compiler platform 18 is not available in shader blob
+[Info   : Unity Log] Load crownList
+[Error  : Unity Log] Desired shader compiler platform 18 is not available in shader blob
+[Error  : Unity Log] Desired shader compiler platform 18 is not available in shader blob
+[Info   : Unity Log] Load tomeList
+[Error  : Unity Log] Desired shader compiler platform 18 is not available in shader blob
+[Error  : Unity Log] Desired shader compiler platform 18 is not available in shader blob
+[Error  : Unity Log] Desired shader compiler platform 18 is not available in shader blob
+[Error  : Unity Log] Desired shader compiler platform 18 is not available in shader blob
+[Info   : Unity Log] Load bladeList
+[Error  : Unity Log] Desired shader compiler platform 18 is not available in shader blob
+[Info   : Unity Log] Load headList
+[Info   : Unity Log] Load scholarList
+[Error  : Unity Log] Desired shader compiler platform 18 is not available in shader blob
+[Info   : Unity Log] Load artifactList
+[Error  : Unity Log] 581583924
+[Error  : Unity Log] 581583924
+[Error  : Unity Log] 581583924
+[Error  : Unity Log] Desired shader compiler platform 18 is not available in shader blob
+[Error  : Unity Log] Desired shader compiler platform 18 is not available in shader blob
+[Error  : Unity Log] 581583924
+[Error  : Unity Log] 581583924
+[Info   : Unity Log] Load Projectiles
+[Info   : Unity Log] Load VFX
+[Info   : Unity Log] Load vfx_sagespell_hit
+[Info   : Unity Log] Load vfx_SageFire_AoE1
+[Info   : Unity Log] Load vfx_SageFire_AoE2
+[Info   : Unity Log] Load vfx_SageFireballHit
+[Info   : Unity Log] Load vfx_SageGhost_death
+[Info   : Unity Log] Load vfx_SageGhost_hit
+[Info   : Unity Log] Load vfx_sageice_aoe
+[Info   : Unity Log] Load vfx_SageSpirit_attack
+[Info   : Unity Log] Load vfx_SageTerra_hit
+[Info   :   jtv.Jtv] Adding JTV Vegetation
+[Info   :   jtv.Jtv] Adding Food
+[Info   :Jotunn.Managers.ItemManager] Adding 145 custom items to the ObjectDB
+[Warning:RRRMonsters] True
+[Info   :Weapon Customizer] Attempting to load weapon data from files...
+[Info   :Weapon Customizer] Loaded 31 weapon files.
+[Info   : Unity Log] 01/03/2023 21:59:32: JOIN spoons.erwib.net:27050
+
+[Info   : Unity Log] 01/03/2023 21:59:32: Not an ip address spoons.erwib.net doing dns lookup
+
+[Info   : Unity Log] 01/03/2023 21:59:32: Got dns entries: 1
+
+[Info   : Unity Log] 01/03/2023 21:59:32: connect to ip:104.223.101.66 port:27050
+
+[Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
+[Info   : Unity Log] 01/03/2023 21:59:32: show character selection
+
+[Info   : Unity Log] 01/03/2023 21:59:32: Session auth respons callback
+
+[Info   : Unity Log] 01/03/2023 21:59:32: Ticket is System.Byte[] of length 369
+
+[Info   : Unity Log] 01/03/2023 21:59:32: Starting music menu
+
+[Info   : Unity Log] 01/03/2023 21:59:33: PlayFab logged in as "Steam_76561197970022810"
+
+[Info   : Unity Log] 01/03/2023 21:59:33: PlayFab local entity ID is B14CFDA23A6A1E90
+
+[Info   : Unity Log] 01/03/2023 21:59:37: UI Group status changed Menu = True
+
+[Info   : Unity Log] 01/03/2023 21:59:38: FOund selected Start game
+
+[Info   : Unity Log] 01/03/2023 21:59:38: show character selection
+
+[Info   : Unity Log] 01/03/2023 21:59:38: UI Group status changed SelectCharacter = True
+
+[Info   : Unity Log] 01/03/2023 21:59:40: OnCharacterStart
+
+[Message:Spawn That!] Loading local spawner configurations.
+[Message:Spawn That!] Loading local spawner configs took: 00:00:00.0204681
+[Message:Spawn That!] Loading world spawner simple configurations
+[Message:Spawn That!] Writing initialized 'spawn_that.simple.cfg' to file D:\Steam\steamapps\common\Valheim\BepInEx\config\spawn_that.simple.cfg.
+[Message:Spawn That!] Loading world spawner configurations.
+[Message:Spawn That!] Loading world spawner configs took: 00:00:00.0710356
+[Message:Spawn That!] Loading SpawnArea spawner configurations.
+[Message:Spawn That!] Loading SpawnArea spawner configs took: 00:00:00.0202868
+[Message:Drop That!] Loading general configuration from D:\Steam\steamapps\common\Valheim\BepInEx\config\drop_that.cfg.
+[Message:Drop That!] Loading character drop lists
+[Message:Drop That!] Loading character drop configurations
+[Message:Drop That!] Loading drop table lists
+[Message:Drop That!] Loading drop table configurations
+[Info   : Unity Log] 01/03/2023 21:59:58: Loading main scene
+
+[Info   : Unity Log] 01/03/2023 21:59:59: Steam initialized, persona:SpoonMan
+
+[Info   : Unity Log] 01/03/2023 21:59:59: PlayFab custom ID set to "Steam_76561197970022810"
+
+[Info   : Unity Log] 01/03/2023 21:59:59: Using default prefs
+
+[Info   :Jotunn.Managers.CommandManager] Adding 1 commands to the Console
+[Info   : Unity Log] 01/03/2023 21:59:59: Loading player profile spoonman
+
+[Info   : Unity Log] 01/03/2023 21:59:59: isModded: True
+
+[Info   : Unity Log] 01/03/2023 21:59:59: Zonesystem Awake 799
+
+[Info   : Unity Log] 01/03/2023 21:59:59: DungeonDB Awake 799
+
+[Info   : Unity Log] 01/03/2023 21:59:59: Steam initialized, persona:SpoonMan
+
+[Info   : Unity Log] 01/03/2023 21:59:59: Worldgenerator version setup:2
+
+[Info   : Unity Log] Registered 'advize.PlantEverything ConfigSync' RPC - waiting for incoming connections
+[Info   :Digitalroot] Trader's coins were saved to world Unknown_BetterTrader.dat file with a value of 2000
+[Info   :Digitalroot] Trader's coins were saved to world leeroy_1020731540_BetterTrader.dat file with a value of 2000
+[Info   : Unity Log] Registered 'MonsterLabZ CreatureManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'ReepusDeepusDelmeepus4902761.ChaosArmor ItemManager ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'GoldenJude_JudesEquipment ConfigSync' RPC - waiting for incoming connections
+[Info   : Unity Log] Registered 'com.alexanderstrada.rrrcore ConfigSync' RPC - waiting for incoming connections
+[Info   :Jotunn.Managers.PrefabManager] Adding 235 custom prefabs to the ZNetScene
+[Info   :Jotunn.Managers.CreatureManager] Adding 14 custom creatures
+[Info   : Unity Log] 01/03/2023 22:00:01: Audioman already exist, destroying self
+
+[Info   : Unity Log] 01/03/2023 22:00:01: Checking for installed DLCs
+
+[Info   : Unity Log] 01/03/2023 22:00:01: DLC:beta installed:False
+
+[Info   :Jotunn.Managers.ItemManager] Adding 145 custom items to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 90 custom recipes to the ObjectDB
+[Info   :Jotunn.Managers.ItemManager] Adding 2 custom item conversions
+[Warning:RRRMonsters] True
+[Info   :Jotunn.Managers.PieceManager] Adding 16 custom pieces to the PieceTables
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\AllBiomes\rrrmonsters.custom.StormFenring.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\AllBiomes\rrrmonsters.custom.StormHatchling.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\AllBiomes\rrrmonsters.custom.StormWolf.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\Ashlands\rrrmonsters.custom.AshHatchling.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\Ashlands\rrrmonsters.custom.AshMosquito.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\Ashlands\rrrmonsters.custom.AshNeck.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\Ashlands\rrrmonsters.custom.BlazingBones.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\Ashlands\rrrmonsters.custom.BlazingDamnedOne.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\Ashlands\rrrmonsters.custom.BurnedBones.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\Ashlands\rrrmonsters.custom.DamnedOne.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\Ashlands\rrrmonsters.custom.ElderSurtling.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\Ashlands\rrrmonsters.custom.FireGolem.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\Ashlands\rrrmonsters.custom.SkinOfEvil.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\Ashlands\rrrmonsters.custom.SmallAshNeck.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\Ashlands\rrrmonsters.custom.SwollenBody.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\BlackForest\rrrmonsters.custom.GhostWarrior.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\BlackForest\rrrmonsters.custom.SwedishChef.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\DeepNorth\rrrmonsters.custom.AngryFrozenCorpse.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\DeepNorth\rrrmonsters.custom.AngrySpirit.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\DeepNorth\rrrmonsters.custom.ArcticWolf.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\DeepNorth\rrrmonsters.custom.CalmSpirit.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\DeepNorth\rrrmonsters.custom.DevourerFenring.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\DeepNorth\rrrmonsters.custom.Dvergr.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\DeepNorth\rrrmonsters.custom.DvergrEvent.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\DeepNorth\rrrmonsters.custom.ForgottenOne.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\DeepNorth\rrrmonsters.custom.FrostGiant.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\DeepNorth\rrrmonsters.custom.FrozenCorpse.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\DeepNorth\rrrmonsters.custom.Jotunn.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\DeepNorth\rrrmonsters.custom.PolarFenring.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\DeepNorth\rrrmonsters.custom.PolarLox.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\DeepNorth\rrrmonsters.custom.SilverGolem.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\DeepNorth\rrrmonsters.custom.SmallPolarLox.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\DeepNorth\rrrmonsters.custom.SmalPolarSerpent.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\Mistlands\rrrmonsters.custom.DarkMosquito.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\Mistlands\rrrmonsters.custom.DarkProtector.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\Mistlands\rrrmonsters.custom.DarkSpider.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\Mistlands\rrrmonsters.custom.Froot.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\Mistlands\rrrmonsters.custom.MotherDarkSpider.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\Mistlands\rrrmonsters.custom.PoisonDarkSpider.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\Mistlands\rrrmonsters.custom.SmallDarkSpider.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\Mistlands\rrrmonsters.custom.Svartalfr.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\Mistlands\rrrmonsters.custom.SvartalfrArcher.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\Mistlands\rrrmonsters.custom.SvartalfrBrigade.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\Mistlands\rrrmonsters.custom.SvartalfrHeavy.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\Mistlands\rrrmonsters.custom.SvartalfrMage.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\Mistlands\rrrmonsters.custom.SvartalfrQueen.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\Plains\rrrmonsters.custom.BlobTarElite.json
+[Info   :RRRMonsters] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\JTV\Swamp\rrrmonsters.custom.Molluscan.json
+[Info   :   RRRNpcs] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\popvillages\rrrnpcs.custom.popvillagesDwarf01.json
+[Info   :   RRRNpcs] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\popvillages\rrrnpcs.custom.popvillagesElf01.json
+[Info   :   RRRNpcs] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\popvillages\rrrnpcs.custom.popvillagesHumanF01.json
+[Info   :   RRRNpcs] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\popvillages\rrrnpcs.custom.popvillagesHumanM01.json
+[Info   :   RRRNpcs] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\popvillages\rrrnpcs.custom.popvillagesHumanM02.json
+[Info   :   RRRNpcs] Loading: D:\Steam\steamapps\common\Valheim\BepInEx\config\popvillages\rrrnpcs.custom.popvillagesHumanM10.json
+[Error  : Unity Log] Desired shader compiler platform 18 is not available in shader blob
+[Error  : Unity Log] Desired shader compiler platform 18 is not available in shader blob
+[Info   :   jtv.Jtv] Repurposing Crafting Stations
+[Error  : Unity Log] Desired shader compiler platform 18 is not available in shader blob
+[Error  : Unity Log] Desired shader compiler platform 18 is not available in shader blob
+[Info   :Jotunn.Managers.NetworkManager] Registering 2 custom RPCs
+[Info   :AuthoritativeConfig_nex.SpeedyPaths] Authoritative Config Registered -> AuthoritativeConfig_nex.SpeedyPaths
+[Info   : Unity Log] 01/03/2023 22:00:09: Zonesystem Start 799
+
+[Message:Custom Raids] Writing random events (raids) for specific locations, eg. caves, to file D:\Steam\steamapps\common\Valheim\BepInEx\Debug\default_location_random_events.txt.
+[Info   : Unity Log] 01/03/2023 22:00:10: Added 3 locations, 0 vegetations, 0 environments, 0 biome env-setups, 0 clutter  from locations_cp1
+
+[Info   : Unity Log] 01/03/2023 22:00:10: Added 1 locations, 0 vegetations, 1 environments, 0 biome env-setups, 0 clutter  from locations_mountaincaves
+
+[Info   : Unity Log] 01/03/2023 22:00:10: Added 27 locations, 25 vegetations, 5 environments, 1 biome env-setups, 3 clutter  from locations_mistlands
+
+[Info   :EpicValheimsAdditions.Core] EVA Mistlands locations are turned off
+[Info   :EpicValheimsAdditions.Core] Loaded Locations
+[Info   :EpicValheimsAdditions.Core] Updated Thors Forge level
+[Info   :EpicValheimsAdditions.Core] Updated Alchemystation level
+[Info   :jtv_biomes.jtv_biomes] Adding Locations
+[Info   :Jotunn.Managers.ZoneManager] Injecting 29 custom locations
+[Info   :Jotunn.Managers.ZoneManager] Injecting 3 custom vegetation
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: small fir has been removed from World Generation (Invalid or Corrupted)
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: small fir has been removed from World Generation (Invalid or Corrupted)
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: rock 4 has been removed from World Generation (Invalid or Corrupted)
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: rock 4 has been removed from World Generation (Invalid or Corrupted)
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: rock 3 has been removed from World Generation (Invalid or Corrupted)
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: swamp_mist has been removed from World Generation (Invalid or Corrupted)
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: swamp_mist has been removed from World Generation (Invalid or Corrupted)
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: Pinetree 01 has been removed from World Generation (Invalid or Corrupted)
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: oak has been removed from World Generation (Invalid or Corrupted)
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: small fir has been removed from World Generation (Invalid or Corrupted)
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: small fir has been removed from World Generation (Invalid or Corrupted)
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: small fir has been removed from World Generation (Invalid or Corrupted)
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: small fir has been removed from World Generation (Invalid or Corrupted)
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: stubbe has been removed from World Generation (Invalid or Corrupted)
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: shrub2 has been removed from World Generation (Invalid or Corrupted)
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: ormbunke has been removed from World Generation (Invalid or Corrupted)
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: runestone has been removed from World Generation (Invalid or Corrupted)
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: flint has been removed from World Generation (Invalid or Corrupted)
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: branch deep forest has been removed from World Generation (Invalid or Corrupted)
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: branch deep forest has been removed from World Generation (Invalid or Corrupted)
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: branch deep forest has been removed from World Generation (Invalid or Corrupted)
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: bog iron has been removed from World Generation (Invalid or Corrupted)
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: rock 4 has been removed from World Generation (Invalid or Corrupted)
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: rock 4 has been removed from World Generation (Invalid or Corrupted)
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: veg has been removed from World Generation (Invalid or Corrupted)
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: veg has been removed from World Generation (Invalid or Corrupted)
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: rock_mistlands2 has been removed from World Generation (Invalid or Corrupted)
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: skull has been removed from World Generation (Invalid or Corrupted)
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: ml mist has been removed from World Generation (Invalid or Corrupted)
+[Info   :jtv_biomes.ZoneSystem_ValidateVegetation_Patch] jtv_biomes: bush has been removed from World Generation (Invalid or Corrupted)
+[Info   : Unity Log] 01/03/2023 22:00:11: DungeonDB Start 799
+
+[Info   : Unity Log] 01/03/2023 22:00:12: ZRpc timeout set to 30s 
+
+[Info   : Unity Log] 01/03/2023 22:00:12: Load world: leeroy (leeroy)
+
+[Info   : Unity Log] 01/03/2023 22:00:12: Loading 539605 zdos , my id 2681380679 data version:29
+
+[Info   : Unity Log] 01/03/2023 22:00:13: Loaded 100000 dead zdos
+
+[Info   : Unity Log] 01/03/2023 22:00:13: Removed 0 OLD generated ZDOS
+
+[Info   : Unity Log] 01/03/2023 22:00:13: Loaded 10057 locations
+
+[Info   : Unity Log] 01/03/2023 22:00:13: Starting respawn
+
+[Info   :Server Devcommands] Reloading 1 bind data.
+[Info   : Unity Log] 01/03/2023 22:00:13: Session auth respons callback
+
+[Info   : Unity Log] 01/03/2023 22:00:19: Unpacking compressed mapdata 18590
+
+[Info   : Unity Log] 01/03/2023 22:00:20: tip:$loadscreen_tip15
+
+[Warning:Recipe Customizer] Item boiled_egg not found!
+[Warning:Recipe Customizer] Item fried_egg not found!
+[Warning:Recipe Customizer] Item ShieldHeavymetalTower not found!
+[Warning:Recipe Customizer] Item SledgeHeavymetal not found!
+[Info   : Unity Log] 01/03/2023 22:00:28: Spawned after 8.019994
+
+[Info   :Jotunn.Managers.SkillManager] Registering 1 custom skills
+[Info   : Unity Log] 01/03/2023 22:00:28: -------------------- SENDING VPLUSMAPSYNC DATA
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Sent my map data to the server (2251 map ranges, 1 chunks)
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Village Commander
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Robe Black
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Robe Blue
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Robe Brown
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Robe Gray
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Robe Green
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Robe Red
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Robe White
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Tunic Black
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Tunic Blue
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Tunic Brown
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Tunic Gray
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Tunic Green
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Tunic Red
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Tunic White
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Hood Black
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Hood Blue
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Hood Brown
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Hood Gray
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Hood Green
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Hood Red
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Hood White
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Pants
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Crown Gold 01
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Crown Gold 02
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Crown Gold 03
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Crown Silver 01
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Crown Silver 02
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Crown Silver 03
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Crown Obsidian 01
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Crown Obsidian 02
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Crown Obsidian 03
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Book 01
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Book 02
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Book 03
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Book 04
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Needle Blade
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Death Blade
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Fire Staff
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Holy Staff
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Ice Staff
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Lightning Staff
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:Sage Dark Staff
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:$item_armor_t0_pchaosbody
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:$item_helmet_t0pchaosplate
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:$item_legs_t0pchaoslegs
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:$ArmorNobleHelmet
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:$ArmorNobleChest
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:$ArmorNobleLegs
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:$ArmorNobleCape
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:$ArmorWarriorHelmet
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:$ArmorWarriorChest
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:$ArmorWarriorLegs
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:$ArmorDragonslayerHelmet
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:$ArmorDragonslayerChest
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:$ArmorDragonslayerLegs
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:$ArmorWandererCape
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:$ArmorBlackmetalgarbHelmet
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:$ArmorBlackmetalgarbChest
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:$ArmorBlackmetalgarbLegs
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:$ArmorSerpentCape
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:$BackpackSimple
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newrecipe:$BackpackHeavy
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newpiece:Cold Forge
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newpiece:Weak Bed Ranged
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newpiece:Weak Bed
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newpiece:Bronze Bed Ranged
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newpiece:Bronze Bed
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newpiece:Iron Bed Ranged
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newpiece:Iron Bed
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newpiece:Silver Bed Ranged
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newpiece:Silver Bed
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newpiece:BlackMetal Bed Ranged
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newpiece:BlackMetal Bed
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newpiece:Defense Post
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Queue unlock msg:$msg_newpiece:Defense Post Ranged
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Minimap: Adding unique location (0.9, 36.1, -6.5)
+
+[Info   : Unity Log] 01/03/2023 22:00:28: Minimap: Adding unique location (-3079.1, 32.5, 1732.4)
+
+[Info   : Unity Log] 01/03/2023 22:00:30: Starting music home
+
+[Info   : Unity Log] 01/03/2023 22:00:30: Resumed music home at 0
+
+[Info   : Unity Log] 01/03/2023 22:00:43: TRIGGER
+
+[Info   : Unity Log] 01/03/2023 22:00:43: Teleporting Spoonman
+
+[Info   : Unity Log] 01/03/2023 22:00:54: Stopped music home at 1044287
+
+[Info   : Unity Log] 01/03/2023 22:00:54: Starting music meadows
+
+[Info   : Unity Log] 01/03/2023 22:00:54: Resumed music meadows at 0
+
+[Info   : Unity Log] 01/03/2023 22:01:34: Old location found StartTemple x 1
+
+[Info   : Unity Log] 01/03/2023 22:01:34: Old location found Eikthyrnir x 3
+
+[Info   : Unity Log] 01/03/2023 22:01:34: Old location found GoblinKing x 1
+
+[Info   : Unity Log] 01/03/2023 22:01:34: Old location found GDKing x 2
+
+[Info   : Unity Log] 01/03/2023 22:01:34: Old location found Bonemass x 1
+
+[Info   : Unity Log] 01/03/2023 22:01:35: Old location found SunkenCrypt4 x 26
+
+[Warning: Unity Log] 01/03/2023 22:01:36: Failed to place all SunkenCrypt4, placed 167 out of 175
+
+[Info   : Unity Log] 01/03/2023 22:01:37: Old location found Vendor_BlackForest x 1
+
+[Info   : Unity Log] 01/03/2023 22:01:37: Old location found Dragonqueen x 1
+
+[Info   : Unity Log] 01/03/2023 22:01:37: Old location found Mistlands_Giant1 x 22
+
+[Warning: Unity Log] 01/03/2023 22:01:43: Failed to place all Mistlands_Giant1, placed 333 out of 350
+
+[Info   : Unity Log] 01/03/2023 22:01:43: Old location found Mistlands_Giant2 x 7
+
+[Info   : Unity Log] 01/03/2023 22:01:47: Old location found Mistlands_DvergrTownEntrance1 x 8
+
+[Info   : Unity Log] 01/03/2023 22:01:48: Old location found Mistlands_DvergrTownEntrance2 x 9
+
+[Info   : Unity Log] 01/03/2023 22:01:49: Old location found Mistlands_DvergrBossEntrance1 x 1
+
+[Info   : Unity Log] 01/03/2023 22:01:49: Old location found StoneCircle x 3
+
+[Info   : Unity Log] 01/03/2023 22:01:49: Old location found Greydwarf_camp1 x 66
+
+[Info   : Unity Log] 01/03/2023 22:01:50: Old location found Runestone_Greydwarfs x 15
+
+[Info   : Unity Log] 01/03/2023 22:01:50: Old location found Grave1 x 25
+
+[Warning: Unity Log] 01/03/2023 22:01:51: Failed to place all Grave1, placed 169 out of 200
+
+[Info   : Unity Log] 01/03/2023 22:01:51: Old location found SwampRuin1 x 4
+
+[Warning: Unity Log] 01/03/2023 22:01:53: Failed to place all SwampRuin2, placed 7 out of 30
+
+[Info   : Unity Log] 01/03/2023 22:01:53: Old location found FireHole x 4
+
+[Warning: Unity Log] 01/03/2023 22:01:54: Failed to place all FireHole, placed 57 out of 75
+
+[Info   : Unity Log] 01/03/2023 22:01:54: Old location found Runestone_Draugr x 11
+
+[Info   : Unity Log] 01/03/2023 22:01:54: Old location found Crypt2 x 29
+
+[Info   : Unity Log] 01/03/2023 22:01:55: Old location found Ruin1 x 27
+
+[Info   : Unity Log] 01/03/2023 22:01:55: Old location found Ruin2 x 38
+
+[Info   : Unity Log] 01/03/2023 22:01:55: Old location found StoneHouse3 x 26
+
+[Info   : Unity Log] 01/03/2023 22:01:55: Old location found StoneHouse4 x 42
+
+[Info   : Unity Log] 01/03/2023 22:01:55: Old location found Ruin3 x 4
+
+[Info   : Unity Log] 01/03/2023 22:01:55: Old location found GoblinCamp2 x 19
+
+[Info   : Unity Log] 01/03/2023 22:01:58: Old location found StoneTower1 x 4
+
+[Info   : Unity Log] 01/03/2023 22:01:58: Old location found StoneTower3 x 5
+
+[Info   : Unity Log] 01/03/2023 22:01:59: Old location found StoneHenge1 x 1
+
+[Info   : Unity Log] 01/03/2023 22:02:00: Old location found StoneHenge4 x 1
+
+[Info   : Unity Log] 01/03/2023 22:02:00: Old location found StoneHenge5 x 2
+
+[Info   : Unity Log] 01/03/2023 22:02:01: Old location found StoneHenge6 x 2
+
+[Info   : Unity Log] 01/03/2023 22:02:01: Old location found WoodHouse1 x 6
+
+[Info   : Unity Log] 01/03/2023 22:02:01: Old location found WoodHouse2 x 10
+
+[Info   : Unity Log] 01/03/2023 22:02:01: Old location found WoodHouse3 x 10
+
+[Info   : Unity Log] 01/03/2023 22:02:01: Old location found WoodHouse4 x 5
+
+[Info   : Unity Log] 01/03/2023 22:02:01: Old location found WoodHouse5 x 4
+
+[Info   : Unity Log] 01/03/2023 22:02:01: Old location found WoodHouse6 x 6
+
+[Info   : Unity Log] 01/03/2023 22:02:01: Old location found WoodHouse7 x 4
+
+[Info   : Unity Log] 01/03/2023 22:02:01: Old location found WoodHouse8 x 9
+
+[Info   : Unity Log] 01/03/2023 22:02:01: Old location found WoodHouse9 x 8
+
+[Info   : Unity Log] 01/03/2023 22:02:01: Old location found WoodHouse10 x 5
+
+[Info   : Unity Log] 01/03/2023 22:02:01: Old location found WoodHouse11 x 5
+
+[Info   : Unity Log] 01/03/2023 22:02:01: Old location found WoodHouse12 x 3
+
+[Info   : Unity Log] 01/03/2023 22:02:01: Old location found WoodHouse13 x 10
+
+[Info   : Unity Log] 01/03/2023 22:02:01: Old location found WoodFarm1 x 5
+
+[Info   : Unity Log] 01/03/2023 22:02:01: Old location found WoodVillage1 x 3
+
+[Info   : Unity Log] 01/03/2023 22:02:02: Old location found TrollCave02 x 39
+
+[Info   : Unity Log] 01/03/2023 22:02:03: Old location found Dolmen01 x 14
+
+[Info   : Unity Log] 01/03/2023 22:02:03: Old location found Dolmen02 x 21
+
+[Info   : Unity Log] 01/03/2023 22:02:03: Old location found Dolmen03 x 9
+
+[Info   : Unity Log] 01/03/2023 22:02:03: Old location found Crypt3 x 36
+
+[Info   : Unity Log] 01/03/2023 22:02:04: Old location found Crypt4 x 33
+
+[Info   : Unity Log] 01/03/2023 22:02:05: Old location found InfestedTree01 x 96
+
+[Info   : Unity Log] 01/03/2023 22:02:06: Old location found SwampHut1 x 7
+
+[Info   : Unity Log] 01/03/2023 22:02:06: Old location found SwampHut2 x 9
+
+[Info   : Unity Log] 01/03/2023 22:02:07: Old location found SwampHut3 x 9
+
+[Info   : Unity Log] 01/03/2023 22:02:08: Old location found SwampHut4 x 10
+
+[Info   : Unity Log] 01/03/2023 22:02:08: Old location found SwampHut5 x 1
+
+[Info   : Unity Log] 01/03/2023 22:02:09: Old location found SwampWell1 x 4
+
+[Info   : Unity Log] 01/03/2023 22:02:09: Old location found StoneTowerRuins04 x 4
+
+[Info   : Unity Log] 01/03/2023 22:02:09: Old location found StoneTowerRuins05 x 8
+
+[Info   : Unity Log] 01/03/2023 22:02:10: Old location found StoneTowerRuins03 x 13
+
+[Info   : Unity Log] 01/03/2023 22:02:10: Old location found StoneTowerRuins07 x 20
+
+[Info   : Unity Log] 01/03/2023 22:02:11: Old location found StoneTowerRuins08 x 10
+
+[Info   : Unity Log] 01/03/2023 22:02:11: Old location found StoneTowerRuins09 x 13
+
+[Info   : Unity Log] 01/03/2023 22:02:11: Old location found StoneTowerRuins10 x 12
+
+[Info   : Unity Log] 01/03/2023 22:02:12: Old location found ShipSetting01 x 44
+
+[Info   : Unity Log] 01/03/2023 22:02:12: Old location found DrakeNest01 x 27
+
+[Info   : Unity Log] 01/03/2023 22:02:13: Old location found Waymarker01 x 2
+
+[Info   : Unity Log] 01/03/2023 22:02:13: Old location found Waymarker02 x 5
+
+[Info   : Unity Log] 01/03/2023 22:02:14: Old location found AbandonedLogCabin02 x 3
+
+[Info   : Unity Log] 01/03/2023 22:02:15: Old location found AbandonedLogCabin03 x 1
+
+[Info   : Unity Log] 01/03/2023 22:02:16: Old location found AbandonedLogCabin04 x 10
+
+[Info   : Unity Log] 01/03/2023 22:02:17: Old location found MountainGrave01 x 17
+
+[Info   : Unity Log] 01/03/2023 22:02:18: Old location found DrakeLorestone x 4
+
+[Info   : Unity Log] 01/03/2023 22:02:18: Old location found MountainWell1 x 6
+
+[Info   : Unity Log] 01/03/2023 22:02:19: Old location found ShipWreck01 x 4
+
+[Info   : Unity Log] 01/03/2023 22:02:19: Old location found ShipWreck02 x 4
+
+[Info   : Unity Log] 01/03/2023 22:02:19: Old location found ShipWreck03 x 3
+
+[Info   : Unity Log] 01/03/2023 22:02:19: Old location found ShipWreck04 x 4
+
+[Info   : Unity Log] 01/03/2023 22:02:20: Old location found Runestone_Meadows x 29
+
+[Info   : Unity Log] 01/03/2023 22:02:20: Old location found Runestone_Boars x 20
+
+[Info   : Unity Log] 01/03/2023 22:02:20: Old location found Runestone_Swamps x 16
+
+[Info   : Unity Log] 01/03/2023 22:02:20: Old location found Runestone_Mountains x 15
+
+[Info   : Unity Log] 01/03/2023 22:02:22: Old location found Runestone_BlackForest x 9
+
+[Info   : Unity Log] 01/03/2023 22:02:22: Old location found Runestone_Plains x 7
+
+[Info   : Unity Log] 01/03/2023 22:02:22: Old location found TarPit1 x 10
+
+[Warning: Unity Log] 01/03/2023 22:02:24: Failed to place all TarPit1, placed 75 out of 100
+
+[Info   : Unity Log] 01/03/2023 22:02:24: Old location found TarPit2 x 1
+
+[Warning: Unity Log] 01/03/2023 22:02:25: Failed to place all TarPit2, placed 14 out of 100
+
+[Info   : Unity Log] 01/03/2023 22:02:25: Old location found TarPit3 x 10
+
+[Info   : Unity Log] 01/03/2023 22:02:27: Old location found MountainCave02 x 14
+
+[Warning: Unity Log] 01/03/2023 22:02:30: Failed to place all MountainCave02, placed 137 out of 160
+
+[Info   : Unity Log] 01/03/2023 22:02:30: Old location found Mistlands_GuardTower1_new x 1
+
+[Info   : Unity Log] 01/03/2023 22:02:30: Old location found Mistlands_GuardTower1_ruined_new x 3
+
+[Info   : Unity Log] 01/03/2023 22:02:31: Old location found Mistlands_GuardTower2_new x 5
+
+[Info   : Unity Log] 01/03/2023 22:02:31: Old location found Mistlands_GuardTower3_ruined_new x 6
+
+[Info   : Unity Log] 01/03/2023 22:02:31: Old location found Mistlands_Lighthouse1_new x 10
+
+[Info   : Unity Log] 01/03/2023 22:02:32: Old location found Mistlands_Excavation1 x 1
+
+[Info   : Unity Log] 01/03/2023 22:02:32: Old location found Mistlands_Excavation2 x 3
+
+[Info   : Unity Log] 01/03/2023 22:02:33: Old location found Mistlands_Excavation3 x 2
+
+[Info   : Unity Log] 01/03/2023 22:02:33: Old location found Mistlands_Harbour1 x 8
+
+[Info   : Unity Log] 01/03/2023 22:02:33: Old location found Mistlands_Viaduct1 x 4
+
+[Info   : Unity Log] 01/03/2023 22:02:33: Old location found Mistlands_Viaduct2 x 7
+
+[Info   : Unity Log] 01/03/2023 22:02:33: Old location found Mistlands_RockSpire1 x 12
+
+[Info   : Unity Log] 01/03/2023 22:02:33: Old location found Mistlands_RoadPost1 x 27
+
+[Info   : Unity Log] 01/03/2023 22:02:34: Old location found Mistlands_StatueGroup1 x 10
+
+[Info   : Unity Log] 01/03/2023 22:02:34: Old location found Mistlands_Statue1 x 10
+
+[Info   : Unity Log] 01/03/2023 22:02:34: Old location found Mistlands_Statue2 x 15
+
+[Info   : Unity Log] 01/03/2023 22:02:34: Old location found Mistlands_Swords1 x 2
+
+[Info   : Unity Log] 01/03/2023 22:02:34: Old location found Mistlands_Swords2 x 1
+
+[Info   : Unity Log] 01/03/2023 22:02:34: Old location found Mistlands_Swords3 x 2
+
+[Info   : Unity Log] 01/03/2023 22:02:34: Old location found Runestone_Mistlands x 1
+
+[Info   : Unity Log] 01/03/2023 22:02:38: Force generaeting hmap (-64.0, 0.0, -3136.0)
+
+[Info   : Unity Log] 01/03/2023 22:02:38: Placed locations in zone -1,-49  duration 5.0032 ms
+
+[Info   : Unity Log] 01/03/2023 22:02:38: Placed locations in zone 2,-51  duration 24.612 ms
+
+[Info   : Unity Log] 01/03/2023 22:02:40: Placed locations in zone 10,-49  duration 0 ms
+
+[Info   : Unity Log] 01/03/2023 22:02:41: Placed locations in zone -11,-51  duration 23.0144 ms
+
+[Info   : Unity Log] 01/03/2023 22:02:42: Placed locations in zone -28,37  duration 4.5165 ms
+
+[Info   : Unity Log] 01/03/2023 22:02:43: Placed locations in zone -28,38  duration 1.0002 ms
+
+[Info   : Unity Log] 01/03/2023 22:02:44: Placed locations in zone 23,-44  duration 80.147 ms
+
+[Info   : Unity Log] 01/03/2023 22:02:47: Placed locations in zone -39,30  duration 70.2598 ms
+
+[Info   : Unity Log] 01/03/2023 22:02:48: Placed locations in zone 37,-32  duration 2.9994 ms
+
+[Info   : Unity Log] 01/03/2023 22:02:51: Placed locations in zone -39,33  duration 0 ms
+
+[Info   : Unity Log] 01/03/2023 22:02:52: Placed locations in zone 27,-45  duration 1.0032 ms
+
+[Info   : Unity Log] 01/03/2023 22:02:53: Placed locations in zone 31,-42  duration 0 ms
+
+[Info   : Unity Log] 01/03/2023 22:02:56: Placed locations in zone 52,-24  duration 0.4993 ms
+
+[Info   : Unity Log] 01/03/2023 22:02:58: Placed locations in zone 29,-49  duration 4.5349 ms
+
+[Info   : Unity Log] 01/03/2023 22:02:58: Placed locations in zone 59,-19  duration 22.6263 ms
+
+[Info   : Unity Log] 01/03/2023 22:02:59: Placed locations in zone -50,29  duration 41.5457 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:00: Placed locations in zone 33,-46  duration 0.9997 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:00: Placed locations in zone -36,44  duration 0.5006 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:01: Placed locations in zone 62,-18  duration 61.0414 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:02: Placed locations in zone -37,44  duration 0.5048 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:02: Force generaeting hmap (3904.0, 0.0, -1280.0)
+
+[Info   : Unity Log] 01/03/2023 22:03:02: Placed locations in zone 61,-20  duration 10.5044 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:04: Placed locations in zone 41,-41  duration 46.0586 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:05: Placed locations in zone -38,46  duration 11.0047 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:09: Placed locations in zone 66,-28  duration 0.9997 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:10: Placed locations in zone 46,-50  duration 3.51 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:10: Placed locations in zone 66,-30  duration 0.5001 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:12: Loading dungeon
+
+[Info   : Unity Log] 01/03/2023 22:03:12: Dungeon loaded 0
+
+[Info   : Unity Log] 01/03/2023 22:03:12: Dungeon load time 1.4964 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:12: Generating DG_ForestCrypt(Clone), Seed: -1724024391, Bounds diff: (-22.9, -32.0, -22.2) / (41.1, 32.0, 41.8)
+
+[Info   : Unity Log] 01/03/2023 22:03:12: Available rooms:18
+
+[Info   : Unity Log] 01/03/2023 22:03:12: To place:40
+
+[Info   : Unity Log] 01/03/2023 22:03:12: Connections 4
+
+[Info   : Unity Log] 01/03/2023 22:03:12: placed 10 doors
+
+[Info   : Unity Log] 01/03/2023 22:03:12: Placed 41 rooms
+
+[Info   : Unity Log] 01/03/2023 22:03:12: Dungeon generated with seed -1724024391 and hash -2092514021
+
+[Info   : Unity Log] 01/03/2023 22:03:12: Placed locations in zone 67,-32  duration 48.2954 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:12: Force generaeting hmap (3264.0, 0.0, -3136.0)
+
+[Info   : Unity Log] 01/03/2023 22:03:12: Placed locations in zone 51,-49  duration 7.009 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:13: Force generaeting hmap (3456.0, 0.0, -3008.0)
+
+[Info   : Unity Log] 01/03/2023 22:03:13: Placed locations in zone 54,-47  duration 6.5007 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:15: Loading dungeon
+
+[Info   : Unity Log] 01/03/2023 22:03:15: Dungeon loaded 0
+
+[Info   : Unity Log] 01/03/2023 22:03:15: Dungeon load time 0.9995 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:15: Generating DG_GoblinCamp(Clone), Seed: -1763189406, Bounds diff: (-32.8, -32.0, -31.9) / (31.2, 32.0, 32.1)
+
+[Info   : Unity Log] 01/03/2023 22:03:15: Available rooms:17
+
+[Info   : Unity Log] 01/03/2023 22:03:15: To place:25
+
+[Info   : Unity Log] 01/03/2023 22:03:15: Placed 27 rooms
+
+[Info   : Unity Log] 01/03/2023 22:03:15: Dungeon generated with seed -1763189406 and hash -1483080989
+
+[Info   : Unity Log] 01/03/2023 22:03:15: Force generaeting hmap (3328.0, 0.0, -3264.0)
+
+[Info   : Unity Log] 01/03/2023 22:03:15: Placed locations in zone 52,-51  duration 85.2299 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:21: Placed locations in zone 57,-52  duration 69.6015 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:22: Placed locations in zone 57,-53  duration 2.5001 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:25: Placed locations in zone 35,-77  duration 2.5003 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:25: Placed locations in zone 57,-56  duration 13.5672 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:26: Placed locations in zone 37,-79  duration 0 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:28: Placed locations in zone 37,-81  duration 1.5078 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:28: Placed locations in zone 67,-52  duration 1.4992 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:32: Placed locations in zone 65,-66  duration 0.4997 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:34: Placed locations in zone 53,-80  duration 58.0439 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:35: Placed locations in zone 54,-80  duration 8.0771 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:36: Placed locations in zone 50,-85  duration 4.5128 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:37: Placed locations in zone 73,-62  duration 1.5076 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:37: Force generaeting hmap (3328.0, 0.0, -5376.0)
+
+[Info   : Unity Log] 01/03/2023 22:03:37: Placed locations in zone 52,-84  duration 177.9833 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:37: Placed locations in zone 55,-81  duration 1.5016 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:38: Loading dungeon
+
+[Info   : Unity Log] 01/03/2023 22:03:38: Dungeon loaded 0
+
+[Info   : Unity Log] 01/03/2023 22:03:38: Dungeon load time 2.0014 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:38: Generating DG_DvergrTown(Clone), Seed: -1712226298, Bounds diff: (-32.0, -128.0, -2.0) / (32.0, 128.0, 62.0)
+
+[Info   : Unity Log] 01/03/2023 22:03:38: Available rooms:48
+
+[Info   : Unity Log] 01/03/2023 22:03:38: To place:96
+
+[Info   : Unity Log] 01/03/2023 22:03:38: Connections 5
+
+[Info   : Unity Log] 01/03/2023 22:03:38: All required rooms have been placed, stopping generation
+
+[Info   : Unity Log] 01/03/2023 22:03:38: cyclic detected and door types match, cool
+
+[Info   : Unity Log] 01/03/2023 22:03:38: cyclic detected and door types match, cool
+
+[Info   : Unity Log] 01/03/2023 22:03:38: cyclic detected and door types match, cool
+
+[Info   : Unity Log] 01/03/2023 22:03:38: cyclic detected and door types match, cool
+
+[Info   : Unity Log] 01/03/2023 22:03:38: cyclic detected and door types match, cool
+
+[Info   : Unity Log] 01/03/2023 22:03:38: cyclic detected and door types match, cool
+
+[Info   : Unity Log] 01/03/2023 22:03:38: cyclic detected and door types match, cool
+
+[Info   : Unity Log] 01/03/2023 22:03:38: cyclic detected and door types match, cool
+
+[Info   : Unity Log] 01/03/2023 22:03:38: No door type for connection:dvergropen
+
+[Info   : Unity Log] 01/03/2023 22:03:38: No door type for connection:dvergropen
+
+[Info   : Unity Log] 01/03/2023 22:03:38: No door type for connection:dvergropen
+
+[Info   : Unity Log] 01/03/2023 22:03:38: No door type for connection:dvergropen
+
+[Info   : Unity Log] 01/03/2023 22:03:38: placed 7 doors
+
+[Info   : Unity Log] 01/03/2023 22:03:38: Placed 71 rooms
+
+[Info   : Unity Log] 01/03/2023 22:03:38: Dungeon generated with seed -1712226298 and hash 1851116745
+
+[Info   : Unity Log] 01/03/2023 22:03:38: Placed locations in zone 51,-85  duration 336.8581 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:39: Placed locations in zone 77,-59  duration 3.5018 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:39: Placed locations in zone 78,-58  duration 8.5088 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:39: Placed locations in zone 55,-82  duration 0.4995 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:39: Placed locations in zone 71,-66  duration 9.5139 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:40: Force generaeting hmap (4864.0, 0.0, -3904.0)
+
+[Info   : Unity Log] 01/03/2023 22:03:40: Placed locations in zone 76,-61  duration 184.489 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:41: Placed locations in zone 73,-65  duration 4.0002 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:42: Placed locations in zone 75,-64  duration 0.9999 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:42: Force generaeting hmap (3392.0, 0.0, -5504.0)
+
+[Info   : Unity Log] 01/03/2023 22:03:42: Placed locations in zone 53,-86  duration 191.315 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:43: Placed locations in zone 74,-66  duration 1.4988 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:44: Placed locations in zone 54,-86  duration 12.0141 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:45: Placed locations in zone 60,-82  duration 74.6295 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:46: Placed locations in zone 67,-75  duration 0.5006 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:47: Placed locations in zone 68,-75  duration 1.0001 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:47: Placed locations in zone 69,-74  duration 0.9993 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:47: Placed locations in zone 72,-71  duration 13.527 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:48: Placed locations in zone 57,-86  duration 9.5061 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:48: Placed locations in zone 63,-81  duration 1.5016 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:53: Placed locations in zone 72,-77  duration 1.4996 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:55: Placed locations in zone 86,-65  duration 1.0004 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:55: Placed locations in zone 74,-78  duration 8.5688 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:57: Placed locations in zone 93,-60  duration 0.9989 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:58: Placed locations in zone 97,-57  duration 1.5005 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:59: Placed locations in zone 89,-66  duration 8.507 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:59: Placed locations in zone 87,-68  duration 0.4995 ms
+
+[Info   : Unity Log] 01/03/2023 22:03:59: Placed locations in zone 95,-60  duration 1.499 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:00: Placed locations in zone 93,-63  duration 1.0003 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:01: Placed locations in zone 110,-46  duration 42.2021 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:01: Placed locations in zone 89,-68  duration 1.4993 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:02: Placed locations in zone 93,-65  duration 0.9992 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:03: Placed locations in zone 94,-65  duration 1.4997 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:03: Placed locations in zone 95,-64  duration 1.4681 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:04: Placed locations in zone 92,-68  duration 1.0041 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:04: Placed locations in zone 97,-63  duration 0.9993 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:05: Placed locations in zone 92,-70  duration 59.6297 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:08: Force generaeting hmap (6656.0, 0.0, -3840.0)
+
+[Info   : Unity Log] 01/03/2023 22:04:08: Placed locations in zone 104,-60  duration 149.7615 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:08: Placed locations in zone 95,-70  duration 8.0001 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:09: Force generaeting hmap (6208.0, 0.0, -4352.0)
+
+[Info   : Unity Log] 01/03/2023 22:04:09: Placed locations in zone 97,-68  duration 171.7543 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:09: Placed locations in zone 106,-59  duration 1.0006 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:10: Force generaeting hmap (7808.0, 0.0, -2816.0)
+
+[Info   : Unity Log] 01/03/2023 22:04:10: Placed locations in zone 122,-44  duration 128.009 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:10: Loading dungeon
+
+[Info   : Unity Log] 01/03/2023 22:04:10: Dungeon loaded 0
+
+[Info   : Unity Log] 01/03/2023 22:04:10: Dungeon load time 2.0008 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:10: Generating DG_DvergrTown(Clone), Seed: -1727163750, Bounds diff: (-32.0, -128.0, -2.0) / (32.0, 128.0, 62.0)
+
+[Info   : Unity Log] 01/03/2023 22:04:10: Available rooms:48
+
+[Info   : Unity Log] 01/03/2023 22:04:10: To place:96
+
+[Info   : Unity Log] 01/03/2023 22:04:10: Connections 5
+
+[Info   : Unity Log] 01/03/2023 22:04:10: All required rooms have been placed, stopping generation
+
+[Info   : Unity Log] 01/03/2023 22:04:10: placed 10 doors
+
+[Info   : Unity Log] 01/03/2023 22:04:10: Placed 48 rooms
+
+[Info   : Unity Log] 01/03/2023 22:04:10: Dungeon generated with seed -1727163750 and hash 1363436277
+
+[Info   : Unity Log] 01/03/2023 22:04:11: Placed locations in zone 98,-69  duration 207.3287 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:11: Placed locations in zone 105,-62  duration 4.0099 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:11: Loading dungeon
+
+[Info   : Unity Log] 01/03/2023 22:04:11: Dungeon loaded 0
+
+[Info   : Unity Log] 01/03/2023 22:04:11: Dungeon load time 1.9999 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:11: Generating DG_DvergrTown(Clone), Seed: -1730190828, Bounds diff: (-32.0, -128.0, -2.0) / (32.0, 128.0, 62.0)
+
+[Info   : Unity Log] 01/03/2023 22:04:11: Available rooms:48
+
+[Info   : Unity Log] 01/03/2023 22:04:11: To place:96
+
+[Info   : Unity Log] 01/03/2023 22:04:11: Connections 5
+
+[Info   : Unity Log] 01/03/2023 22:04:11: All required rooms have been placed, stopping generation
+
+[Info   : Unity Log] 01/03/2023 22:04:11: placed 10 doors
+
+[Info   : Unity Log] 01/03/2023 22:04:11: Placed 40 rooms
+
+[Info   : Unity Log] 01/03/2023 22:04:11: Dungeon generated with seed -1730190828 and hash 868294145
+
+[Info   : Unity Log] 01/03/2023 22:04:11: Force generaeting hmap (6784.0, 0.0, -3904.0)
+
+[Info   : Unity Log] 01/03/2023 22:04:11: Placed locations in zone 106,-61  duration 185.1612 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:12: Placed locations in zone 104,-64  duration 1.4998 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:13: Force generaeting hmap (6592.0, 0.0, -4288.0)
+
+[Info   : Unity Log] 01/03/2023 22:04:13: Placed locations in zone 103,-67  duration 128.4098 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:14: Placed locations in zone 105,-66  duration 1.0013 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:14: Force generaeting hmap (7680.0, 0.0, -3264.0)
+
+[Info   : Unity Log] 01/03/2023 22:04:14: Placed locations in zone 120,-51  duration 126.0991 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:15: Placed locations in zone 121,-51  duration 0.9994 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:16: Placed locations in zone 129,-48  duration 1.0002 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:16: Placed locations in zone 130,-47  duration 0.9988 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:17: Placed locations in zone 130,-49  duration 1.5008 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:17: Force generaeting hmap (8448.0, 0.0, -3072.0)
+
+[Info   : Unity Log] 01/03/2023 22:04:17: Placed locations in zone 132,-48  duration 177.0923 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:18: Placed locations in zone 143,-38  duration 8.0049 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:18: Force generaeting hmap (8448.0, 0.0, -3200.0)
+
+[Info   : Unity Log] 01/03/2023 22:04:18: Placed locations in zone 132,-50  duration 132.0486 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:19: Force generaeting hmap (8576.0, 0.0, -3072.0)
+
+[Info   : Unity Log] 01/03/2023 22:04:19: Placed locations in zone 134,-48  duration 178.7756 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:19: Force generaeting hmap (9216.0, 0.0, -2432.0)
+
+[Info   : Unity Log] 01/03/2023 22:04:19: Placed locations in zone 144,-38  duration 248.8977 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:20: Placed locations in zone 134,-49  duration 3.5007 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:21: Placed locations in zone 146,-39  duration 2.0011 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:23: Placed locations in zone 141,-46  duration 1.4984 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:23: Placed locations in zone 140,-48  duration 7.5066 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:24: Placed locations in zone 145,-44  duration 1.5 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:24: Placed locations in zone 138,-52  duration 0.9995 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:24: Force generaeting hmap (9152.0, 0.0, -3008.0)
+
+[Info   : Unity Log] 01/03/2023 22:04:24: Placed locations in zone 143,-47  duration 187.0803 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:25: Placed locations in zone 145,-45  duration 0.9996 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:25: Placed locations in zone 144,-47  duration 8.5062 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:25: Placed locations in zone 143,-49  duration 0.9998 ms
+
+[Info   : Unity Log] 01/03/2023 22:04:32: Starting music evening
+
+[Info   : Unity Log] 01/03/2023 22:04:33: Stopped music meadows at 9642259
+
+[Info   : Unity Log] 01/03/2023 22:04:50: Spawned Greydwarf x 1
+
+[Info   : Unity Log] 01/03/2023 22:05:38: Spawned Greydwarf_Shaman x 1
+
+[Info   : Unity Log] 01/03/2023 22:07:19: Possible events:4
+
+[Info   : Unity Log] 01/03/2023 22:07:19: Random event set:skeletons
+
+[Info   : Unity Log] 01/03/2023 22:07:19: Starting music CombatEventL3
+
+[Info   : Unity Log] 01/03/2023 22:07:22: Spawned Skeleton x 4
+
+[Info   : Unity Log] 01/03/2023 22:07:22: Spawned Skeleton x 5
+
+[Info   : Unity Log] 01/03/2023 22:07:22: Spawned Skeleton x 6
+
+[Info   : Unity Log] 01/03/2023 22:07:22: Spawned Skeleton x 4
+
+[Info   : Unity Log] 01/03/2023 22:07:22: Spawned Skeleton x 1
+
+[Info   : Unity Log] 01/03/2023 22:07:30: Spawned Deer x 2
+
+[Info   : Unity Log] 01/03/2023 22:07:30: Spawned Neck x 2
+
+[Info   : Unity Log] 01/03/2023 22:07:30: Spawned Neck x 1
+
+[Info   : Unity Log] 01/03/2023 22:07:30: Spawned Fish1 x 1
+
+[Info   : Unity Log] 01/03/2023 22:07:30: Spawned Greydwarf x 1
+
+[Info   : Unity Log] 01/03/2023 22:07:30: Spawned Greydwarf x 1
+
+[Info   : Unity Log] 01/03/2023 22:07:30: Spawned Silkworm_Butterfly x 1
+
+[Info   : Unity Log] 01/03/2023 22:07:30: Spawned Skeleton_Poison x 1
+
+[Info   : Unity Log] 01/03/2023 22:07:39: Setting selected recipe 0
+
+[Info   : Unity Log] 01/03/2023 22:07:39: UI Group status changed root = True
+
+[Info   : Unity Log] 01/03/2023 22:07:39: UI Group status changed Player = True
+
+[Info   : Unity Log] 01/03/2023 22:07:49: Update PlayFab entity token
+
+[Info   : Unity Log] 01/03/2023 22:07:52: Poison damage: 3.360728 ttl:5.099224 hits:5 dmg perhit:0.6721455
+
+[Info   : Unity Log] 01/03/2023 22:07:58: Spawned Skeleton x 6
+
+[Info   : Unity Log] 01/03/2023 22:08:10: Spawned Skeleton x 6
+
+[Info   : Unity Log] 01/03/2023 22:08:16: Poison damage: 30 ttl:6.477226 hits:6 dmg perhit:5
+
+[Info   : Unity Log] 01/03/2023 22:08:16: Valid True
+
+[Info   : Unity Log] 01/03/2023 22:08:16: On death False
+
+[Info   : Unity Log] 01/03/2023 22:08:22: Spawned Skeleton x 4
+
+[Info   : Unity Log] 01/03/2023 22:08:34: Spawned Skeleton x 5
+
+[Info   : Unity Log] 01/03/2023 22:08:34: Spawned Skeleton_Poison x 1
+
+[Info   : Unity Log] 01/03/2023 22:08:47: Valid True
+
+[Info   : Unity Log] 01/03/2023 22:08:47: On death False
+
+[Info   : Unity Log] 01/03/2023 22:08:58: Spawned Skeleton x 4
+
+[Info   : Unity Log] 01/03/2023 22:09:06: Spawned Skeleton_Poison x 1
+
+[Info   : Unity Log] 01/03/2023 22:09:10: Spawned Skeleton x 3
+
+[Info   : Unity Log] 01/03/2023 22:09:24: Stopped music CombatEventL3 at 1608899
+
+[Info   : Unity Log] 01/03/2023 22:09:50: Spawned Fish1 x 1
+
+[Info   : Unity Log] 01/03/2023 22:09:50: Spawned Greydwarf_Elite x 1
+
+[Info   : Unity Log] 01/03/2023 22:10:06: Spawned Fish2 x 3
+
+[Info   : Unity Log] 01/03/2023 22:10:12: Starting music home
+
+[Info   : Unity Log] 01/03/2023 22:10:12: Stopped music home at 4703
+
+[Info   : Unity Log] 01/03/2023 22:10:14: Starting music home
+
+[Info   : Unity Log] 01/03/2023 22:10:14: Resumed music home at 4703
+
+[Info   : Unity Log] 01/03/2023 22:10:35: Player 2681380679 wants to open piece_chest_wood(Clone)   im: 2681380679
+
+[Info   : Unity Log] 01/03/2023 22:10:35: Setting selected recipe 0
+
+[Info   : Unity Log] 01/03/2023 22:10:35: UI Group status changed root = True
+
+[Info   : Unity Log] 01/03/2023 22:10:35: UI Group status changed Player = True
+
+[Info   : Unity Log] 01/03/2023 22:10:35: UI Group status changed Container = False
+
+[Info   : Unity Log] 01/03/2023 22:10:37: Player 2681380679 wants to open piece_chest_wood(Clone)   im: 2681380679
+
+[Info   : Unity Log] 01/03/2023 22:10:37: Setting selected recipe 0
+
+[Info   : Unity Log] 01/03/2023 22:10:37: UI Group status changed root = True
+
+[Info   : Unity Log] 01/03/2023 22:10:37: UI Group status changed Player = True
+
+[Info   : Unity Log] 01/03/2023 22:10:42: trying to add $item_wood
+
+[Info   : Unity Log] 01/03/2023 22:10:42: Added ore Wood
+
+[Info   : Unity Log] 01/03/2023 22:10:42: trying to add $item_wood
+
+[Info   : Unity Log] 01/03/2023 22:10:42: Added ore Wood
+
+[Info   : Unity Log] 01/03/2023 22:10:42: trying to add $item_wood
+
+[Info   : Unity Log] 01/03/2023 22:10:42: Added ore Wood
+
+[Info   : Unity Log] 01/03/2023 22:10:42: Spawned Neck x 4
+
+[Info   : Unity Log] 01/03/2023 22:10:42: trying to add $item_wood
+
+[Info   : Unity Log] 01/03/2023 22:10:42: Added ore Wood
+
+[Info   : Unity Log] 01/03/2023 22:10:43: trying to add $item_wood
+
+[Info   : Unity Log] 01/03/2023 22:10:43: Added ore Wood
+
+[Info   : Unity Log] 01/03/2023 22:10:43: trying to add $item_wood
+
+[Info   : Unity Log] 01/03/2023 22:10:43: Added ore Wood
+
+[Info   : Unity Log] 01/03/2023 22:10:43: trying to add $item_wood
+
+[Info   : Unity Log] 01/03/2023 22:10:43: Added ore Wood
+
+[Info   : Unity Log] 01/03/2023 22:10:43: trying to add $item_wood
+
+[Info   : Unity Log] 01/03/2023 22:10:43: Added ore Wood
+
+[Info   : Unity Log] 01/03/2023 22:10:43: trying to add $item_wood
+
+[Info   : Unity Log] 01/03/2023 22:10:43: Added ore Wood
+
+[Info   : Unity Log] 01/03/2023 22:10:44: trying to add $item_wood
+
+[Info   : Unity Log] 01/03/2023 22:10:44: Added ore Wood
+
+[Info   : Unity Log] 01/03/2023 22:10:44: trying to add $item_wood
+
+[Info   : Unity Log] 01/03/2023 22:10:44: Added ore Wood
+
+[Info   : Unity Log] 01/03/2023 22:10:44: trying to add $item_wood
+
+[Info   : Unity Log] 01/03/2023 22:10:44: Added ore Wood
+
+[Info   : Unity Log] 01/03/2023 22:10:44: Stopped music home at 1343462
+
+[Info   : Unity Log] 01/03/2023 22:10:44: trying to add $item_wood
+
+[Info   : Unity Log] 01/03/2023 22:10:44: Added ore Wood
+
+[Info   : Unity Log] 01/03/2023 22:10:45: trying to add $item_wood
+
+[Info   : Unity Log] 01/03/2023 22:10:45: Added ore Wood
+
+[Info   : Unity Log] 01/03/2023 22:10:45: trying to add $item_wood
+
+[Info   : Unity Log] 01/03/2023 22:10:45: Added ore Wood
+
+[Info   : Unity Log] 01/03/2023 22:10:45: trying to add $item_wood
+
+[Info   : Unity Log] 01/03/2023 22:10:45: Added ore Wood
+
+[Info   : Unity Log] 01/03/2023 22:10:45: trying to add $item_wood
+
+[Info   : Unity Log] 01/03/2023 22:10:45: Added ore Wood
+
+[Info   : Unity Log] 01/03/2023 22:10:46: trying to add $item_wood
+
+[Info   : Unity Log] 01/03/2023 22:10:46: Added ore Wood
+
+[Info   : Unity Log] 01/03/2023 22:10:46: trying to add $item_wood
+
+[Info   : Unity Log] 01/03/2023 22:10:46: Added ore Wood
+
+[Info   : Unity Log] 01/03/2023 22:10:46: trying to add $item_wood
+
+[Info   : Unity Log] 01/03/2023 22:10:46: Added ore Wood
+
+[Info   : Unity Log] 01/03/2023 22:10:46: trying to add $item_wood
+
+[Info   : Unity Log] 01/03/2023 22:10:46: Added ore Wood
+
+[Info   : Unity Log] 01/03/2023 22:10:46: trying to add $item_wood
+
+[Info   : Unity Log] 01/03/2023 22:10:46: Added ore Wood
+
+[Info   : Unity Log] 01/03/2023 22:10:47: trying to add $item_wood
+
+[Info   : Unity Log] 01/03/2023 22:10:47: Added ore Wood
+
+[Info   : Unity Log] 01/03/2023 22:10:47: trying to add $item_wood
+
+[Info   : Unity Log] 01/03/2023 22:10:47: Added ore Wood
+
+[Info   : Unity Log] 01/03/2023 22:10:47: trying to add $item_wood
+
+[Info   : Unity Log] 01/03/2023 22:10:47: Added ore Wood
+
+[Info   : Unity Log] 01/03/2023 22:10:47: trying to add $item_wood
+
+[Info   : Unity Log] 01/03/2023 22:10:48: trying to add $item_wood
+
+[Info   : Unity Log] 01/03/2023 22:10:51: Starting music home
+
+[Info   : Unity Log] 01/03/2023 22:10:51: Resumed music home at 1343462
+
+[Info   : Unity Log] 01/03/2023 22:10:53: Setting selected recipe 0
+
+[Info   : Unity Log] 01/03/2023 22:10:53: UI Group status changed root = True
+
+[Info   : Unity Log] 01/03/2023 22:10:53: UI Group status changed Player = True
+
+[Info   : Unity Log] 01/03/2023 22:10:54: Spawned Greydwarf x 1
+
+[Info   : Unity Log] 01/03/2023 22:11:08: Stopped music home at 721593
+
+[Info   : Unity Log] 01/03/2023 22:11:34: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/03/2023 22:11:37: Placed piece_sharpstakes
+
+[Info   : Unity Log] 01/03/2023 22:11:37: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/03/2023 22:11:37: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/03/2023 22:11:46: Placed piece_sharpstakes
+
+[Info   : Unity Log] 01/03/2023 22:11:46: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/03/2023 22:11:46: Disabling HIT AREA  character_trigger
+
+[Info   : Unity Log] 01/03/2023 22:11:57: Starting music home
+
+[Info   : Unity Log] 01/03/2023 22:11:57: Resumed music home at 721593
+
+[Info   : Unity Log] 01/03/2023 22:12:24: UI Group status changed MenuRoot = False
+
+[Info   : Unity Log] 01/03/2023 22:12:25: Game - OnApplicationQuit
+
+[Info   : Unity Log] 01/03/2023 22:12:25: Shuting down
+
+[Info   : Unity Log] 01/03/2023 22:12:25: Uncompressed size 8392642
+
+[Info   : Unity Log] 01/03/2023 22:12:25: Compressed size 18590
+
+[Info   : Unity Log] 01/03/2023 22:12:25: Cloud Save: 8480359 bytes. /characters/spoonman.fch.new
+
+[Info   : Unity Log] 01/03/2023 22:12:25: Steam writing file chunks 1 / 1, (8480359 bytes)
+
+[Info   : Unity Log] 01/03/2023 22:12:25: Steam Cloud Move: 8478893 bytes. /characters/spoonman.fch -> /characters/spoonman.fch.old
+
+[Info   : Unity Log] 01/03/2023 22:12:25: Steam writing file chunks 1 / 1, (8478893 bytes)
+
+[Info   : Unity Log] 01/03/2023 22:12:25: Steam Cloud Move: 8480359 bytes. /characters/spoonman.fch.new -> /characters/spoonman.fch
+
+[Info   : Unity Log] 01/03/2023 22:12:25: Steam writing file chunks 1 / 1, (8480359 bytes)
+
+[Info   : Unity Log] 01/03/2023 22:12:25: Considering autobackup. World time: 677.86, short time: 7200, long time: 43200, backup count: 4
+
+[Info   : Unity Log] 01/03/2023 22:12:25: Skipping backup. World session not long enough.
+
+[Info   : Unity Log] 01/03/2023 22:12:25: ZNet Shutdown
+
+[Info   : Unity Log] 01/03/2023 22:12:26: clone 675
+
+[Info   : Unity Log] 01/03/2023 22:12:27: Sending disconnect msg
+
+[Info   :Digitalroot] Trader's coins were saved to world leeroy_1020731540_BetterTrader.dat file with a value of 2000
+[Info   : Unity Log] 01/03/2023 22:12:30: Steam manager on destroy
+
+[Info   : Unity Log] 01/03/2023 22:12:30: FOund selected Button_yes
+
+[Info   : Unity Log] 01/03/2023 22:12:30: ZNet OnDestroy
+
+[Info   : Unity Log] 01/03/2023 22:12:30: Net scene destroyed
+
+[Warning: Unity Log] 01/03/2023 22:12:31: Local player destroyed
+

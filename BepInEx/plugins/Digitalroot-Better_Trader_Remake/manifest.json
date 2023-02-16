@@ -1,0 +1,11 @@
+{
+  "$schema": "https://raw.githubusercontent.com/Digitalroot-Valheim/Digitalroot.Valheim.Common.Interfaces/main/src/json/tsio-manifest.json",
+  "name": "Better_Trader_Remake",
+  "author": "Digitalroot",
+  "description": "Adds a custom trader menu, 310+ items to buy/sell, built-in support for Epic Loot, and an extensive list of configuration options.",
+  "version_number": "2.2.7",
+  "dependencies": [
+    "denikson-BepInExPack_Valheim-5.4.1901"
+  ],
+  "website_url": "https://www.nexusmods.com/valheim/mods/433"
+}
