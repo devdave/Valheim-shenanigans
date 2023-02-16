@@ -12,3 +12,4 @@ start_server_bepinex.sh
 steam_appid.txt
 unstripped_corlib/*
 valheim_Data/*
+*.log
