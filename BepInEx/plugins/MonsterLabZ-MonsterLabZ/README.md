@@ -1,4 +1,4 @@
-Release Notes: https://discord.gg/wVNZf2DjwT
+Release Notes: https://discord.gg/rdAxvuVXPa
 
 A handful of the creatures spawn by default, for the rest you can configure the spawns with spawnthat or use a configuration manager ingame. (Warning: Installing a new version will override your previous config) You can check out the prefablist in Discord to see what spawns by default.
 

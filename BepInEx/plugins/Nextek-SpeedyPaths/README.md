@@ -343,10 +343,18 @@ Install to **/BepInEx/plugins** folder.
     # Default value: Iron
     StructureIron = Iron
 
+## Download
+https://www.nexusmods.com/valheim/mods/452
+
+https://valheim.thunderstore.io/package/Nextek/SpeedyPaths/
+
 ## Source
 https://github.com/NNaso/ValheimMods/tree/main/SpeedyPaths
 
 ## Changelog
+**Version 1.0.7**  
+- Added Support for black marble structures
+
 **Version 1.0.6**  
 - Fix for SpeedyPaths not working on linux clients.
 - Performance fixes and 2 new configs for performance.

@@ -1,0 +1,9 @@
+{
+    "name": "MassFarming",
+    "version_number": "1.6.0",
+    "website_url": "https://github.com/Xeio/MassFarming",
+    "description": "Xeio's mod to assist with large scale farming in Valheim [v1.6.0]",
+    "dependencies": [
+        "denikson-BepInExPack_Valheim-5.4.1901"
+    ]
+}
