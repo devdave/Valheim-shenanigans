@@ -13,3 +13,4 @@ steam_appid.txt
 unstripped_corlib/*
 valheim_Data/*
 *.log
+BepInEx/cache/*
