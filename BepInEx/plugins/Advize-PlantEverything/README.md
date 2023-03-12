@@ -33,7 +33,7 @@ This mod adds a wide range of features, some of which are not well known (or eve
 - When [Difficulty]PlaceAnywhere is enabled, the following changes take effect: Saplings, small trees, and bushes can be placed indoors. Saplings can grow into trees indoors, and sapling grow radius is ignored. Bushes and saplings/trees placed while PlaceAnywhere is enabled will defy gravity (to prevent them from falling through floors). Even if PlaceAnywhere is later disabled, the pieces will continue to float until the world is loaded without the mod present.
 
 **Synchronizes configuration settings in multiplayer using ServerSync.**
-- Mod configurations will be synchronized between connected clients who are using the mod. If [General] LockConfiguration is set to true, only server admins will be able to modify configuration settings. However, settings falling under the [General] category of the config file will not be synchronized (with the exception of AlternateIcons, and EnableMiscFlora). Though ServerSync will sync configs between connected clients, a client's locally stored configuration file will not be altered.
+- Mod configurations will be synchronized between connected clients who are using the mod. If [General] LockConfiguration is set to true, only server admins will be able to modify configuration settings. However, settings falling under the [General] category of the config file will not be synchronized (with the exception of EnableMiscFlora). Though ServerSync will sync configs between connected clients, a client's locally stored configuration file will not be altered.
 
 **Supports localized text**
 - for the added plantable resources. The mod does offer localization support, but the mod has yet to be translated to other languages. Users can help to translate the mod to other languages by enabling "EnableLocalization" in the config, and then re-launching the game once. This will generate a .json file in the plugins directory alongside Advize_PlantEverything.dll named 'english_PlantEverything.json'. Using any text editor, edit the names and descriptions in the right column and resave the file as '{language}_PlantEverything.json'. Finally, change the language setting in the mod's config file to match {language} of your json file. For example, if you launch the game while "spanish_PlantEverything.json" is present alongside the .dll file AND the config language option is set to "spanish", it will load strings for names and decriptions from the Spanish json file.
@@ -128,6 +128,11 @@ Configuration file has become so long that the readme size limit of thunderstore
 Github Repo: [Advize_ValheimMods](https://github.com/AdvizeGH/Advize_ValheimMods)
 
 ## Changelog
+### 1.13.1
+- Removed meadows restriction on decorative pieces when EnforceBiomes is enabled.
+- Fix for Unity Exception when running in development mode.
+- Miscellaneous code optimizations and reduction of mod footprint.
+
 ### 1.13.0
 - Trees & Seeds update!
 - Added ygga saplings.
