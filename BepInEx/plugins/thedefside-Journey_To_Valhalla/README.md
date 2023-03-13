@@ -119,8 +119,9 @@ There are 10 new sets of armor.
 
 
 # Change log
-v1.1.8
- - Updated Deep North/Ashlands foods
- - Fixed Cold Forge recipe
+v1.1.10
+ - Fix compatibility with MonsterLabZ 2.9.8
+ - Disable JTV Biomes Location spawns
+ - Fix Elven Ranger bows
 
 [Full Changlog](https://github.com/thedefside/journey_to_valhalla/blob/master/Changelog.txt)

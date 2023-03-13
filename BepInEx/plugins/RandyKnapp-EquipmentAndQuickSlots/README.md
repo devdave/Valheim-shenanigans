@@ -67,3 +67,5 @@ Copy EquipmentAndQuickSlots.dll into the BepInEx/plugins folder
     * Added new config features: DontDropEquipmentOnDeath, DontDropQuickslotsOnDeath, InstantlyReequipArmorOnPickup, InstantlyReequipQuickslotsOnPickup
   * 2.1.1
     * Fixed compatibility issues with JewelCrafting and MultiUserChest
+  * 2.1.2
+    * Updated for Valheim 0.214.2 Patch

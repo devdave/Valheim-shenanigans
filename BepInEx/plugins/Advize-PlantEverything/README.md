@@ -128,8 +128,12 @@ Configuration file has become so long that the readme size limit of thunderstore
 Github Repo: [Advize_ValheimMods](https://github.com/AdvizeGH/Advize_ValheimMods)
 
 ## Changelog
+### 1.13.2
+- Ancient and Ygga Saplings can now grow in any biome when EnforceBiomes is disabled.
+
 ### 1.13.1
 - Removed meadows restriction on decorative pieces when EnforceBiomes is enabled.
+- Omitted black cores from respawn time display.
 - Fix for Unity Exception when running in development mode.
 - Miscellaneous code optimizations and reduction of mod footprint.
 
